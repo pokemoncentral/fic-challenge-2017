@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PCF Fic Challenge 2017</title>
-    <link>http://example.org/tags/</link>
+    <link>https://pokemoncentral.github.io/fic-challenge-2017/tags/</link>
     <description>Recent content in Tags on PCF Fic Challenge 2017</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pokemoncentral.github.io/fic-challenge-2017/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
